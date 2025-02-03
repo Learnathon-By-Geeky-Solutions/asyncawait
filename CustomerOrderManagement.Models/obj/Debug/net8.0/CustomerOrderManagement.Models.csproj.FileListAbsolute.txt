@@ -1,0 +1,56 @@
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.deps.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.AssemblyInfoInputs.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.AssemblyInfo.cs
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\refint\CustomerOrderManagement.Models.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\ref\CustomerOrderManagement.Models.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.runtimeconfig.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.csproj.AssemblyReference.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.genruntimeconfig.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.deps.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.runtimeconfig.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.csproj.AssemblyReference.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.AssemblyInfo.cs
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\refint\CustomerOrderManagement.Models.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.genruntimeconfig.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\ref\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.deps.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\refint\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\ref\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.deps.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\bin\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\refint\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\CustomerOrderManagement.Models.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement.Models\obj\Debug\net8.0\ref\CustomerOrderManagement.Models.dll

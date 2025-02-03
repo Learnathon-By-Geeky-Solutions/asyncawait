@@ -1,0 +1,608 @@
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.staticwebassets.runtime.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.exe
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.deps.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.runtimeconfig.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.pdb
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.pdb
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.AssemblyReference.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.AssemblyInfoInputs.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.AssemblyInfo.cs
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.RazorAssemblyInfo.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.RazorAssemblyInfo.cs
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.CustomerOrderManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerOrderManagement.props
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerOrderManagement.props
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerOrderManagement.props
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderManagement.styles.css
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\projectbundle\CustomerOrderManagement.bundle.scp.css
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\Customer.23D9B164.Up2Date
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\refint\CustomerOrderManagement.dll
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.pdb
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.genruntimeconfig.cache
+C:\Users\Nihad\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\ref\CustomerOrderManagement.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.staticwebassets.runtime.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.exe
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.deps.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.runtimeconfig.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.AssemblyReference.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.AssemblyInfo.cs
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.RazorAssemblyInfo.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.RazorAssemblyInfo.cs
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.CustomerOrderManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerOrderManagement.props
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerOrderManagement.props
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerOrderManagement.props
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderManagement.styles.css
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\projectbundle\CustomerOrderManagement.bundle.scp.css
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\Customer.23D9B164.Up2Date
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\refint\CustomerOrderManagement.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.genruntimeconfig.cache
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\ref\CustomerOrderManagement.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Configurations.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.Abstractions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.Abstractions.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.dll
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Configurations.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.Abstractions.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.pdb
+C:\Users\nihad\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.Abstractions.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.staticwebassets.runtime.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.exe
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.deps.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Configurations.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Configurations.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.Abstractions.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.Abstractions.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.CustomerOrderManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerOrderManagement.props
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerOrderManagement.props
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerOrderManagement.props
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderManagement.styles.css
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\projectbundle\CustomerOrderManagement.bundle.scp.css
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\refint\CustomerOrderManagement.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement_Nihad Adnan Shah\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\ref\CustomerOrderManagement.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.staticwebassets.runtime.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.exe
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.deps.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Configurations.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Models.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.Abstractions.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Configurations.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Models.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Repository.Abstractions.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\bin\Debug\net8.0\CustomerOrderManagement.Service.Abstractions.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.CustomerOrderManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomerOrderManagement.props
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomerOrderManagement.props
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomerOrderManagement.props
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\bundle\CustomerOrderManagement.styles.css
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\scopedcss\projectbundle\CustomerOrderManagement.bundle.scp.css
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\refint\CustomerOrderManagement.dll
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.pdb
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\CustomerOrderManagement.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CustomerOrderManagement\CustomerOrderManagement\obj\Debug\net8.0\ref\CustomerOrderManagement.dll
