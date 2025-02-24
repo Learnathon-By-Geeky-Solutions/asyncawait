@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement\\CustomerOrderManagement.csproj": {}
+    "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement\\CustomerOrderManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj": {
+    "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj",
+        "projectUniqueName": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj",
         "projectName": "CustomerOrderManagement.Configurations",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Configurations\\obj\\",
+        "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Configurations\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,26 +26,27 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj"
               }
             }
           }
@@ -50,7 +55,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -71,21 +82,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
+    "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj",
+        "projectUniqueName": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj",
         "projectName": "CustomerOrderManagement.Models",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\obj\\",
+        "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,6 +108,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -105,7 +121,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -142,21 +164,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
+    "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj",
+        "projectUniqueName": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj",
         "projectName": "CustomerOrderManagement.Repository.Abstractions",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\obj\\",
+        "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,14 +190,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
               }
             }
           }
@@ -180,7 +207,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -201,21 +234,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj": {
+    "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj",
+        "projectUniqueName": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj",
         "projectName": "CustomerOrderManagement.Repository",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\obj\\",
+        "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -223,17 +260,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj"
               }
             }
           }
@@ -242,7 +280,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -279,21 +323,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj": {
+    "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj",
+        "projectUniqueName": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj",
         "projectName": "CustomerOrderManagement.Service.Abstractions",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service.Abstractions\\obj\\",
+        "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -301,14 +349,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
               }
             }
           }
@@ -317,7 +366,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -338,21 +393,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj": {
+    "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj",
+        "projectUniqueName": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj",
         "projectName": "CustomerOrderManagement.Service",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service\\obj\\",
+        "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service\\CustomerOrderManagement.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -360,17 +419,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Service.Abstractions\\CustomerOrderManagement.Service.Abstractions.csproj"
               }
             }
           }
@@ -379,7 +439,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -400,21 +466,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement\\CustomerOrderManagement.csproj": {
+    "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement\\CustomerOrderManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement\\CustomerOrderManagement.csproj",
+        "projectUniqueName": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement\\CustomerOrderManagement.csproj",
         "projectName": "CustomerOrderManagement",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement\\CustomerOrderManagement.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement\\obj\\",
+        "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement\\CustomerOrderManagement.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -422,14 +492,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj"
+              "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj": {
+                "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Configurations\\CustomerOrderManagement.Configurations.csproj"
               }
             }
           }
@@ -438,7 +509,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -478,7 +555,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
