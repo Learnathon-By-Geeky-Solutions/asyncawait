@@ -1,9 +1,9 @@
 # asyncawait
 
 ## Team Members
-- NHAlvee (Team Leader)
-- Shadidreza
-- NihadAdnan
+- Navid Hasin Alvee (Team Leader)
+- Shadid Reza Chowdhury
+- Nihad Adnan
 
 ## Mentor
 - imranbs23
