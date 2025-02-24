@@ -4079,19 +4079,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj",
+      "projectUniqueName": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj",
       "projectName": "CustomerOrderManagement.Repository",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository\\obj\\",
+      "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\CustomerOrderManagement.Repository.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4099,17 +4104,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
+            "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj": {
+              "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Models\\CustomerOrderManagement.Models.csproj"
             },
-            "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\CustomerOrderManagement\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj"
+            "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj": {
+              "projectPath": "D:\\Learn\\Learnathon\\asyncAwait\\CustomerOrderManagement.Repository.Abstractions\\CustomerOrderManagement.Repository.Abstractions.csproj"
             }
           }
         }
@@ -4118,7 +4124,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -4155,7 +4167,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
