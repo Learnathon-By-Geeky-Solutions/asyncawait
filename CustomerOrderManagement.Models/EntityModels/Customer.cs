@@ -20,7 +20,7 @@ namespace CustomerOrderManagement.Models.EntityModels
         [StringLength(150)]
         public string Name { get; set; }
 
-        public string PhoneNumber { get; set; }
+        public string PhoneNo { get; set; }
 
         public string Address { get; set; }
 
