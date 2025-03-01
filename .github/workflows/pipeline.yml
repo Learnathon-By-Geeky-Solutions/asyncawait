@@ -1,0 +1,51 @@
+name: CarBuddy CI/CD Pipeline
+
+on:
+    push:
+        branches:
+        - main
+    pull_request:
+        branches:
+        - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '9.x'  
+
+    - name: Restore Dependencies
+      run: dotnet restore
+
+    - name: Build Solution
+      run: dotnet build --configuration Release --no-restore
+
+    - name: Run Unit Tests with Coverage
+      run: dotnet test --configuration Release --no-build \
+        --collect:"XPlat Code Coverage" \
+        --logger trx \
+        --results-directory TestResults
+
+    - name: Publish Application
+      run: dotnet publish --configuration Release --output publish
+
+    - name: Upload Build Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: build-output
+        path: publish
+
+    - name: Upload Test Coverage Report
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-coverage
+        path: TestResults
+
+
