@@ -1,46 +1,28 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ShasthoBondhu.Data;
-using ShasthoBondhu.Models.Domain;
-using ShasthoBondhu.Models.DTO;
+using ShasthoBondhu.Dto;
+using ShasthoBondhu.Service.Interfaces;
 
-namespace ShasthoBondhu.Controllers
+namespace ShasthoBondhu.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PatientController : ControllerBase
+    public sealed class PatientController(IPatientService patientService) : ControllerBase
     {
-        private readonly ShasthoBondhuDbContext dbContext;
-
-        public PatientController(ShasthoBondhuDbContext dbContext)
-        {
-            this.dbContext = dbContext;
-        }
+        private readonly IPatientService _patientService = patientService;
 
         [HttpGet]
-        public IActionResult GetAllPatients()
+        public async Task<IActionResult> GetAllPatients()
         {
-            var patients = dbContext.Patients.ToList();
+            var patients = await _patientService.GetAllAsync();
             return Ok(patients);
         }
 
         [HttpPost]
-        public IActionResult AddPatient(PatientDTO patientDTO)
+        public async Task<IActionResult> AddPatient(PatientDto patientdto)
         {
-            var patient = new Patient
-            {
-                Id = Guid.NewGuid(),
-                Name = patientDTO.Name,
-                Image = patientDTO.Image,
-                Address = patientDTO.Address,
-                Phone = patientDTO.Phone,
-                Email = patientDTO.Email
-            };
+            var result = await _patientService.AddAsync(patientdto);
 
-            dbContext.Patients.Add(patient);
-            dbContext.SaveChangesAsync();
-
-            return Ok(patient);
+            return Ok(result);
         }
-
     }
 }

@@ -1,9 +1,7 @@
-﻿namespace ShasthoBondhu.Models.Domain
+﻿namespace ShasthoBondhu.Dto
 {
-    public class Patient
+    public class PatientDto
     {
-        public Guid Id { get; set; }
-
         public required string Name { get; set; }
 
         public byte[]? Image { get; set; }
