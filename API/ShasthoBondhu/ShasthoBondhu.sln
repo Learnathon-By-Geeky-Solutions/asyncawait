@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShasthoBondhu.Data", "Shast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShasthoBondhu.Dto", "ShasthoBondhu.Dto\ShasthoBondhu.Dto.csproj", "{4D3FA9B8-E245-4E18-A732-FF8009A5FB55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShasthoBondhu.Api.Abstractions", "ShasthoBondu.Api.Abstractions\ShasthoBondhu.Api.Abstractions.csproj", "{08035B31-701E-4F72-B821-277BD56EB5C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShasthoBondhu.Api.Abstractions", "ShasthoBondhu.Api.Abstractions\ShasthoBondhu.Api.Abstractions.csproj", "{08035B31-701E-4F72-B821-277BD56EB5C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShasthoBondhu.Service", "ShasthoBondhu.Service\ShasthoBondhu.Service.csproj", "{B976A01B-5325-40A0-9439-DE5AED11643C}"
 EndProject
