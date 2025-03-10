@@ -16,6 +16,8 @@ namespace ShasthoBondhu.Service.Services
                  .Select(p => new PatientDto
                  {
                      Name = p.Name,
+                     Gender = p.Gender,
+                     DateOfBirth = p.DateOfBirth,
                      Image = p.Image,
                      Address = p.Address,
                      Phone = p.Phone,
@@ -31,6 +33,8 @@ namespace ShasthoBondhu.Service.Services
             var newPatient = new Patient
             {
                 Name = patient.Name,
+                Gender = patient.Gender,
+                DateOfBirth = patient.DateOfBirth,
                 Image = patient.Image,
                 Address = patient.Address,
                 Phone = patient.Phone,
