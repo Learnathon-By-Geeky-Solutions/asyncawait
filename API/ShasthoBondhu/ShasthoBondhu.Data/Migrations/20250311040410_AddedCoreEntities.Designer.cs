@@ -12,7 +12,7 @@ using ShasthoBondhu.Data;
 namespace ShasthoBondhu.Data.Migrations
 {
     [DbContext(typeof(ShasthoBondhuDbContext))]
-    [Migration("20250310094355_AddedCoreEntities")]
+    [Migration("20250311040410_AddedCoreEntities")]
     partial class AddedCoreEntities
     {
         /// <inheritdoc />
@@ -27,11 +27,11 @@ namespace ShasthoBondhu.Data.Migrations
 
             modelBuilder.Entity("ShasthoBondhu.Data.Entities.Appointment", b =>
                 {
-                    b.Property<int>("AppointmentId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AppointmentId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("AppointmentDateTime")
                         .HasColumnType("datetime2");
@@ -57,7 +57,7 @@ namespace ShasthoBondhu.Data.Migrations
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime2");
 
-                    b.HasKey("AppointmentId");
+                    b.HasKey("Id");
 
                     b.HasIndex("DoctorId");
 
@@ -177,8 +177,14 @@ namespace ShasthoBondhu.Data.Migrations
                     b.Property<int>("DoctorHospitalId")
                         .HasColumnType("int");
 
+                    b.Property<Guid>("DoctorId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<TimeOnly>("EndTime")
                         .HasColumnType("time");
+
+                    b.Property<Guid>("HospitalId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<TimeOnly>("StartTime")
                         .HasColumnType("time");

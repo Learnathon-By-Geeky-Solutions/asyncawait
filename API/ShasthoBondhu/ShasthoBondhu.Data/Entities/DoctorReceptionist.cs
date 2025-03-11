@@ -9,6 +9,7 @@
         public Guid ReceptionistId { get; set; }
 
         public DateTime? AssignmentStartDate { get; set; }
+
         public DateTime? AssignmentEndDate { get; set; }
 
         #region Navigation properties

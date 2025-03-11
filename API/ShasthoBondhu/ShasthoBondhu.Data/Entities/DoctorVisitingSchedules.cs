@@ -4,6 +4,10 @@
     {
         public int Id { get; set; }
 
+        public Guid DoctorId { get; set; }
+
+        public Guid HospitalId { get; set; }
+
         public int DoctorHospitalId { get; set; }
 
         public required List<DayOfWeek> Days { get; set; }
