@@ -12,8 +12,8 @@ using ShasthoBondhu.Data;
 namespace ShasthoBondhu.Data.Migrations
 {
     [DbContext(typeof(ShasthoBondhuDbContext))]
-    [Migration("20250311040410_AddedCoreEntities")]
-    partial class AddedCoreEntities
+    [Migration("20250311091434_AddedCoreEntitites")]
+    partial class AddedCoreEntitites
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -251,15 +251,7 @@ namespace ShasthoBondhu.Data.Migrations
                     b.Property<Guid?>("PatientId")
                         .HasColumnType("uniqueidentifier");
 
-                    b.PrimitiveCollection<string>("PatientsId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Phone")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Relation")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

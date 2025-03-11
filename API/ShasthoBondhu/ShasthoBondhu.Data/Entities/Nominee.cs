@@ -4,11 +4,7 @@
     {
         public Guid Id { get; set; }
 
-        public required List<Guid> PatientsId { get; set; }
-
         public required string Name { get; set; }
-
-        public required string Relation { get; set; }
 
         public byte[]? Image { get; set; }
 
