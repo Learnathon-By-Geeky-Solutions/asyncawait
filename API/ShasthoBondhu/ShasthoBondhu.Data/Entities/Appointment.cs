@@ -1,4 +1,5 @@
 ﻿using ShasthoBondhu.Data.Entities.AuditLog;
+using ShasthoBondhu.Data.Entities.Enums;
 
 namespace ShasthoBondhu.Data.Entities
 {
@@ -10,7 +11,7 @@ namespace ShasthoBondhu.Data.Entities
 
         public int? HospitalId { get; set; }
 
-        public string? Status { get; set; }
+        public AppointmentStatus? Status { get; set; }
 
         public string? ReasonForVisit { get; set; }
 
