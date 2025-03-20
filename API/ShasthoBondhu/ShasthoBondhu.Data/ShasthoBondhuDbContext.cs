@@ -51,12 +51,12 @@ namespace ShasthoBondhu.Data
 
             foreach (var entry in entries)
             {
-                if (entry.State == EntityState.Added)
+                if (entry?.Entity != null && entry.State == EntityState.Added)
                 {
                     entry.Entity.CreatedBy = currentUser;
                     entry.Entity.CreatedAt = DateTime.UtcNow;
                 }
-                else if (entry.State == EntityState.Modified)
+                else if (entry?.Entity != null && entry.State == EntityState.Modified)
                 {
                     entry.Entity.UpdatedBy = currentUser;
                     entry.Entity.UpdatedAt = DateTime.UtcNow;

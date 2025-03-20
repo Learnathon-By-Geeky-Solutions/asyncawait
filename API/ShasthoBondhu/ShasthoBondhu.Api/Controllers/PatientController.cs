@@ -21,6 +21,11 @@ namespace ShasthoBondhu.Api.Controllers
         public async Task<IActionResult> GetPatientById(int id)
         {
             var patient = await _patientService.GetByIdAsync(id);
+
+            if (patient == null)
+            {
+                return NotFound();
+            }
             return Ok(patient);
         }
 
