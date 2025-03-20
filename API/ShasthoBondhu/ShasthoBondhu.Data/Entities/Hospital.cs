@@ -1,9 +1,9 @@
-﻿namespace ShasthoBondhu.Data.Entities
-{
-    public class Hospital
-    {
-        public Guid Id { get; set; }
+﻿using ShasthoBondhu.Data.Entities.AuditLog;
 
+namespace ShasthoBondhu.Data.Entities
+{
+    public class Hospital : AuditableEntity
+    {
         public required string Name { get; set; }
 
         public byte[]? Image { get; set; }

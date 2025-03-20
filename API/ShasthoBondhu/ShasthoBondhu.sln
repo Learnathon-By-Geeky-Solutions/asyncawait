@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.35806.103
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShasthoBondhu.Api", "ShasthoBondhu\ShasthoBondhu.Api.csproj", "{3A64BDE2-2E84-431C-B58B-4668C47B35C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShasthoBondhu.Api", "ShasthoBondhu.Api\ShasthoBondhu.Api.csproj", "{3A64BDE2-2E84-431C-B58B-4668C47B35C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShasthoBondhu.Data", "ShasthoBondhu.Data\ShasthoBondhu.Data.csproj", "{AD12C0C5-C070-4539-926D-2EAA6D38B9F1}"
 EndProject

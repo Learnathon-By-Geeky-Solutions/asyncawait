@@ -1,12 +1,12 @@
-﻿namespace ShasthoBondhu.Data.Entities
+﻿using ShasthoBondhu.Data.Entities.AuditLog;
+
+namespace ShasthoBondhu.Data.Entities
 {
-    public class DoctorHospital
+    public class DoctorHospital : AuditableEntity
     {
-        public int Id { get; set; }
+        public int DoctorId { get; set; }
 
-        public Guid DoctorId { get; set; }
-
-        public Guid HospitalId { get; set; }
+        public int HospitalId { get; set; }
 
         public DateTime? AffiliationStartDate { get; set; }
 

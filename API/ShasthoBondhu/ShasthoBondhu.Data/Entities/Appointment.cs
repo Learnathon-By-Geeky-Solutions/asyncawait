@@ -1,24 +1,20 @@
-﻿namespace ShasthoBondhu.Data.Entities
+﻿using ShasthoBondhu.Data.Entities.AuditLog;
+
+namespace ShasthoBondhu.Data.Entities
 {
-    public class Appointment
+    public class Appointment : AuditableEntity
     {
-        public int Id { get; set; }
+        public int PatientId { get; set; }
 
-        public Guid PatientId { get; set; }
+        public int DoctorId { get; set; }
 
-        public Guid DoctorId { get; set; }
-
-        public Guid? HospitalId { get; set; }
+        public int? HospitalId { get; set; }
 
         public string? Status { get; set; }
 
         public string? ReasonForVisit { get; set; }
 
         public DateTime AppointmentDateTime { get; set; }
-
-        public DateTime CreatedAt { get; set; }
-
-        public DateTime UpdatedAt { get; set; }
 
         #region Navigation properties
 
