@@ -38,7 +38,9 @@ namespace ShasthoBondhu.Service.Services
                 Image = patient.Image,
                 Address = patient.Address,
                 Phone = patient.Phone,
-                Email = patient.Email
+                Email = patient.Email,
+                CreatedAt = DateTime.UtcNow,
+                CreatedBy = "Not defined"
             };
 
             await _context.Patients.AddAsync(newPatient);

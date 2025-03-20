@@ -22,7 +22,7 @@ namespace ShasthoBondhu.Api.Controllers
         {
             var result = await _patientService.AddAsync(patientdto);
 
-            return Ok(result);
+            return Accepted(result);
         }
     }
 }
