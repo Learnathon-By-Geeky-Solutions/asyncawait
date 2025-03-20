@@ -6,6 +6,8 @@ namespace ShasthoBondhu.Service.Interfaces
     {
         Task<List<PatientDto>> GetAllAsync();
 
-        Task<bool> AddAsync(PatientDto patient);
+        Task<PatientDto?> GetByIdAsync(int id);
+
+        Task<(bool success, int patientId)> AddAsync(PatientDto patient);
     }
 }

@@ -1,9 +1,9 @@
-﻿namespace ShasthoBondhu.Data.Entities
-{
-    public class Receptionist
-    {
-        public Guid Id { get; set; }
+﻿using ShasthoBondhu.Data.Entities.AuditLog;
 
+namespace ShasthoBondhu.Data.Entities
+{
+    public class Receptionist : AuditableEntity
+    {
         public required string Name { get; set; }
 
         public string? Description { get; set; }

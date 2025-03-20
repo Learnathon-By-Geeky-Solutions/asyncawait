@@ -1,9 +1,9 @@
-﻿namespace ShasthoBondhu.Data.Entities
-{
-    public class Patient
-    {
-        public Guid Id { get; set; }
+﻿using ShasthoBondhu.Data.Entities.AuditLog;
 
+namespace ShasthoBondhu.Data.Entities
+{
+    public class Patient : AuditableEntity
+    {
         public required string Name { get; set; }
 
         public required string Gender { get; set; }

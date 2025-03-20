@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ShasthoBondhu.Data.Entities;
+using ShasthoBondhu.Data.Entities.AuditLog;
 
 namespace ShasthoBondhu.Data
 {
@@ -39,7 +40,28 @@ namespace ShasthoBondhu.Data
 
         public Task<int> SaveChangesAsync()
         {
+            UpdateAuditFields();
             return SaveChangesAsync(new CancellationToken());
+        }
+
+        private void UpdateAuditFields()
+        {
+            var currentUser = "User #not-implemented"; // Has to be implemented after authentication
+            var entries = ChangeTracker.Entries<AuditableEntity>();
+
+            foreach (var entry in entries)
+            {
+                if (entry.State == EntityState.Added)
+                {
+                    entry.Entity.CreatedBy = currentUser;
+                    entry.Entity.CreatedAt = DateTime.UtcNow;
+                }
+                else if (entry.State == EntityState.Modified)
+                {
+                    entry.Entity.UpdatedBy = currentUser;
+                    entry.Entity.UpdatedAt = DateTime.UtcNow;
+                }
+            }
         }
     }
 }
