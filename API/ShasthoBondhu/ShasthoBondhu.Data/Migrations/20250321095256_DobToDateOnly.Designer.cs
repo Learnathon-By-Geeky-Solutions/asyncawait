@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ShasthoBondhu.Data;
 
@@ -11,9 +12,11 @@ using ShasthoBondhu.Data;
 namespace ShasthoBondhu.Data.Migrations
 {
     [DbContext(typeof(ShasthoBondhuDbContext))]
-    partial class ShasthoBondhuDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250321095256_DobToDateOnly")]
+    partial class DobToDateOnly
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
