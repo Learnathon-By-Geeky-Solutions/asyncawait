@@ -11,7 +11,6 @@ namespace ShasthoBondhu.Api.Controllers
     [ApiController]
     public sealed class PatientController(IPatientService patientService) : ControllerBase
     {
-
         private readonly IPatientService _patientService = patientService;
 
         /// <summary>
@@ -40,12 +39,12 @@ namespace ShasthoBondhu.Api.Controllers
         /// <summary>
         /// Adds a new patient.
         /// </summary>
-        /// <param name="patientdto">The patient data transfer object.</param>
+        /// <param name="patientDto">The patient data transfer object.</param>
         /// <returns>The newly created patient.</returns>
         [HttpPost]
-        public async Task<IActionResult> AddPatient(PatientDto patientdto)
+        public async Task<IActionResult> AddPatient(PatientDto patientDto)
         {
-            var result = await _patientService.AddAsync(patientdto);
+            var result = await _patientService.AddAsync(patientDto);
             return CreatedAtAction(nameof(GetPatientById), new { id = result.patientId }, result);
         }
     }
