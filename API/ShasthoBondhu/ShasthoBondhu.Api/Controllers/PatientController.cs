@@ -4,12 +4,19 @@ using ShasthoBondhu.Service.Interfaces;
 
 namespace ShasthoBondhu.Api.Controllers
 {
+    /// <summary>
+    /// Controller for managing patients.
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public sealed class PatientController(IPatientService patientService) : ControllerBase
     {
         private readonly IPatientService _patientService = patientService;
 
+        /// <summary>
+        /// Retrieves all patients.
+        /// </summary>
+        /// <returns>A list of patients.</returns>
         [HttpGet]
         public async Task<IActionResult> GetAllPatients()
         {
@@ -17,17 +24,32 @@ namespace ShasthoBondhu.Api.Controllers
             return Ok(patients);
         }
 
+        /// <summary>
+        /// Retrieves a patient by their ID.
+        /// </summary>
+        /// <param name="id">The ID of the patient.</param>
+        /// <returns>The patient with the specified ID.</returns>
         [HttpGet("{id}")]
         public async Task<IActionResult> GetPatientById(int id)
         {
             var patient = await _patientService.GetByIdAsync(id);
+
+            if (patient == null)
+            {
+                return NotFound();
+            }
             return Ok(patient);
         }
 
+        /// <summary>
+        /// Adds a new patient.
+        /// </summary>
+        /// <param name="patientDto">The patient data transfer object.</param>
+        /// <returns>The newly created patient.</returns>
         [HttpPost]
-        public async Task<IActionResult> AddPatient(PatientDto patientdto)
+        public async Task<IActionResult> AddPatient(PatientDto patientDto)
         {
-            var result = await _patientService.AddAsync(patientdto);
+            var result = await _patientService.AddAsync(patientDto);
             return CreatedAtAction(nameof(GetPatientById), new { id = result.patientId }, result);
         }
     }

@@ -23,6 +23,11 @@ namespace ShasthoBondhu.Data.Entities
         [Required]
         public TimeOnly EndTime { get; set; }
 
+        public bool IsValidTimeRange()
+        {
+            return EndTime > StartTime;
+        }
+
         #region Navigation properties
 
         public required DoctorHospital DoctorHospital { get; set; }

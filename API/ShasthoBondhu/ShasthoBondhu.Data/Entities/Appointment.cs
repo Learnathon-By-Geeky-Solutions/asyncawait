@@ -1,5 +1,6 @@
 ﻿using ShasthoBondhu.Data.Entities.AuditLog;
 using System.ComponentModel.DataAnnotations;
+using ShasthoBondhu.Data.Entities.Enums;
 
 namespace ShasthoBondhu.Data.Entities
 {
@@ -13,8 +14,7 @@ namespace ShasthoBondhu.Data.Entities
 
         public int? HospitalId { get; set; }
 
-        [MaxLength(50)]
-        public string? Status { get; set; }
+        public AppointmentStatus? Status { get; set; }
 
         [MaxLength(500)]
         public string? ReasonForVisit { get; set; }
