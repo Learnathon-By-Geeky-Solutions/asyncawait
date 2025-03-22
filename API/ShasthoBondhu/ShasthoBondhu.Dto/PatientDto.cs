@@ -6,7 +6,7 @@
 
         public required string Gender { get; set; }
 
-        public required DateTime DateOfBirth { get; set; }
+        public required DateOnly DateOfBirth { get; set; }
 
         public byte[]? Image { get; set; }
 
